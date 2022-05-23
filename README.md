@@ -43,10 +43,13 @@ This is a RESTful CRUD backend implementation of an __E-Commerce__ application t
 # Usage
 
 ### Walkthrough Videos 🎥🎥
-* <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to create a schema</a>
-* <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to seed the database</a>
-* <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to start the application</a>
-* <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> GET, PUT, POST, and DELETE Request</a>
+
+* <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4>e-commerce back-end *Full Demo Video*</a>
+    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to create a schema</a>
+    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to seed the database</a>
+    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to start the application</a>
+    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> GET, PUT, POST, and DELETE Request</a>
+
 
 # Technologies
 Node Package Manager
