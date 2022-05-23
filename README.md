@@ -33,8 +33,6 @@ This is a RESTful CRUD backend implementation of an __E-Commerce__ application t
 
 # Installation
 
-[run app local]
-
 1. First have Node.js installed
 2. clone the repo and in your terminal type `git clone https://github.com/SophoanMeas/e-commerce-backend`
 3. type `npm i` to install all the node dependencies for this project
