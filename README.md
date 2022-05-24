@@ -50,7 +50,7 @@ This is a RESTful CRUD backend implementation of an __E-Commerce__ application t
     * <a href="https://drive.google.com/file/d/1wJE28SU9PxEd5GBQ2EPIPZ5bu-RjDmBW/view?usp=sharing" target="_blank"><h4> How to start the application</a>
     * <a href="https://drive.google.com/file/d/1juY8LXI_kDLa3p0a4cAKNnMk60F87a4O/view?usp=sharing" target="_blank"><h4> GET Request</a>
     * <a href="https://drive.google.com/file/d/1_2jgsr1TLf56neCy1kO0otcBE5DhQ9XE/view?usp=sharing" target="_blank"><h4> POST Request</a>
-    * <a href="hhttps://drive.google.com/file/d/1-gIojzZiP-HCmEqmZW7l5Wb_vcLgCVm4/view?usp=sharing" target="_blank"><h4> PUT Request</a>
+    * <a href="https://drive.google.com/file/d/1-gIojzZiP-HCmEqmZW7l5Wb_vcLgCVm4/view?usp=sharing" target="_blank"><h4> PUT Request</a>
     * <a href="https://drive.google.com/file/d/1BFVMOOZVC_Z0gJiT_XbDCZKxy3_BdmuE/view?usp=sharing" target="_blank"><h4> DELETE Request</a>
 
 
