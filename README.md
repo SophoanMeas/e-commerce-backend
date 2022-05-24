@@ -44,11 +44,14 @@ This is a RESTful CRUD backend implementation of an __E-Commerce__ application t
 
 ### Walkthrough Videos 🎥🎥
 
-* <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4>e-commerce back-end *Full Demo Video*</a>
-    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to create a schema</a>
-    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to seed the database</a>
-    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> How to start the application</a>
-    * <a href="https://note-taker-pon.herokuapp.com/" target="_blank"><h4> GET, PUT, POST, and DELETE Request</a>
+* <a href="https://drive.google.com/file/d/1Yio4a2NCtjSie56OiidzV1L5WCcKtorV/view?usp=sharing" target="_blank"><h4>e-commerce back-end *Full Demo Video*</a>
+    * <a href="https://drive.google.com/file/d/1YRpjN5Kslc5Fp_D-DT1aR9gHcU3YwI10/view?usp=sharing" target="_blank"><h4> How to create a schema/database</a>
+    * <a href="https://drive.google.com/file/d/16ETt61P1puspGUCmFMXgGdu7jmhyz9Im/view?usp=sharing" target="_blank"><h4> How to seed the database</a>
+    * <a href="https://drive.google.com/file/d/1wJE28SU9PxEd5GBQ2EPIPZ5bu-RjDmBW/view?usp=sharing" target="_blank"><h4> How to start the application</a>
+    * <a href="https://drive.google.com/file/d/1juY8LXI_kDLa3p0a4cAKNnMk60F87a4O/view?usp=sharing" target="_blank"><h4> GET Request</a>
+    * <a href="https://drive.google.com/file/d/1_2jgsr1TLf56neCy1kO0otcBE5DhQ9XE/view?usp=sharing" target="_blank"><h4> POST Request</a>
+    * <a href="hhttps://drive.google.com/file/d/1-gIojzZiP-HCmEqmZW7l5Wb_vcLgCVm4/view?usp=sharing" target="_blank"><h4> PUT Request</a>
+    * <a href="https://drive.google.com/file/d/1BFVMOOZVC_Z0gJiT_XbDCZKxy3_BdmuE/view?usp=sharing" target="_blank"><h4> DELETE Request</a>
 
 
 # Technologies
